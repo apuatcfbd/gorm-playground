@@ -1,4 +1,4 @@
-module gorm.io/playground
+module gorms.io/playground
 
 go 1.18
 
@@ -34,4 +34,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace gorm.io/gorm => ./gorm
+//replace gorm.io/gorm => ./gorm
