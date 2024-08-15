@@ -1,4 +1,5 @@
-module gorm.io/playground
+module gorms.io/playground
+
 
 go 1.20
 
