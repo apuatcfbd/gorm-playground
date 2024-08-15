@@ -41,7 +41,7 @@ func (*Kind) Value(ctx context.Context, field *schema.Field, dst reflect.Value, 
 }
 
 const (
-	KindStg  Kind = "str"
+	KindStr  Kind = "str"
 	KindBool Kind = "bool"
 	KindInt  Kind = "int"
 )
